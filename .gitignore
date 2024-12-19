@@ -1,0 +1,14 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Node.js
+node_modules/
+build/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
